@@ -15,7 +15,7 @@ export class EducationComponent {
       score: '7.94'
     },
     {
-      institute: 'Sihnagad College Of Engineering, Pune',
+      institute: 'Sinhagad College Of Engineering, Pune',
       course: 'BE',
       duration: '2015-2019',
       score: '7.23'
