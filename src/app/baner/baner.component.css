@@ -1,6 +1,6 @@
 :host {
     display: block;
-    padding: 4rem 10rem 8rem;
+    padding: 4rem 2rem 6rem;
     background-color: var(--dark-gray);
     clip-path: polygon(0 0, 100% 0, 100% 95%, 50% 100%, 0 95%);
 }
@@ -71,7 +71,7 @@
 /* PC */
 
 :host.pc {
-    padding: 4rem, 2rem, 10rem;
+    padding: 10rem 10rem 10rem;
     clip-path: polygon(0 0, 100% 0, 100% 89%, 50% 100%, 0 89%);
 }
 

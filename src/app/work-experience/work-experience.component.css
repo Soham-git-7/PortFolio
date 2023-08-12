@@ -27,11 +27,6 @@ ul li h4{
 
 /* pc */
 
-:host.pc{
-    padding: 3rem 2rem;
-}
-
-
 :host.pc ul li:has(ul){
     width: max-content;
     position: relative;
